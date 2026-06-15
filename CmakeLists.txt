@@ -1,3 +1,3 @@
 cmake_minimum_required(VERSION 2.8.9)
-project(sample C)
-add_executable(sample sample.c)
+project(gitc)
+add_executable(gitc sample.c)
