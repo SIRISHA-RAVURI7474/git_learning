@@ -1,5 +1,5 @@
 all:
-	$(CC) $(CFLAGS) $(LDFLAGS) sample.c -o sample
+	$(CC) $(CFLAGS) $(LDFLAGS) sample.c -o gitm
 
 clean:
-	rm -f sample
+	rm -f gitm
