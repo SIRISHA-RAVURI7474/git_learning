@@ -1,5 +1,5 @@
 all:
-	gcc sample.c -o sample
+	$(CC) sample.c -o sample
 
 clean:
-	rm -rf sample
+	rm -f sample
